@@ -571,8 +571,8 @@ section {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
-  border: 1px solid var(--lime);
-  padding: 18px;
+  border: 0;
+  padding: 0;
 }
 
 .project-actions {
@@ -872,7 +872,7 @@ section {
   }
 
   .project-grid {
-    border-right: 0;
+    border: 0;
   }
 
   .project-actions {
@@ -1009,7 +1009,7 @@ section {
   }
 
   .project-grid {
-    border-right: 0;
+    border: 0;
   }
 
   .project-card {
