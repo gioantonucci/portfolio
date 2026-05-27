@@ -2,6 +2,7 @@ const menuButton = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
 const links = [...document.querySelectorAll(".nav-links a")];
 const sections = links
+  .filter((link) => link.getAttribute("href")?.startsWith("#"))
   .map((link) => document.querySelector(link.getAttribute("href")))
   .filter(Boolean);
 const behanceGrid = document.querySelector("[data-behance-projects]");

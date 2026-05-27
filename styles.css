@@ -133,6 +133,25 @@ em {
   color: var(--lime);
 }
 
+.nav-links .nav-cv {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  padding: 7px 18px 6px;
+  border: 1px solid var(--lime);
+  border-radius: 999px;
+  color: var(--lime);
+  line-height: 1;
+}
+
+.nav-links .nav-cv:hover,
+.nav-links .nav-cv:focus-visible {
+  background: var(--lime);
+  color: var(--black);
+  outline: 0;
+}
+
 .menu-toggle {
   display: none;
   width: 42px;
@@ -789,6 +808,13 @@ section {
   .nav-links a {
     width: 100%;
     padding: 12px 0;
+  }
+
+  .nav-links .nav-cv {
+    width: auto;
+    min-width: 112px;
+    margin-top: 8px;
+    padding: 10px 18px 9px;
   }
 
   .hero,
