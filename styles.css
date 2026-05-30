@@ -933,6 +933,7 @@ section {
   }
 
   .hero-photo {
+    display: none;
     top: auto;
     right: -24%;
     bottom: 0;
