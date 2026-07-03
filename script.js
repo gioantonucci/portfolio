@@ -109,7 +109,7 @@ const copy = {
       },
       {
         category: "Herramientas",
-        items: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "After Effects"],
+        items: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "After Effects", "Canva", "CapCut"],
       },
       {
         category: "Tecnologías",
@@ -227,7 +227,7 @@ const copy = {
       },
       {
         category: "Tools",
-        items: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "After Effects"],
+        items: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "After Effects", "Canva", "CapCut"],
       },
       {
         category: "Technologies",
