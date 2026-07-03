@@ -503,7 +503,7 @@ section {
   background: var(--blue);
 }
 
-.education article:nth-child(n + 3) > span {
+.education article:not(:first-child) > span {
   background: var(--lime);
 }
 
@@ -547,7 +547,7 @@ section {
   line-height: 1;
 }
 
-.education article:nth-child(n + 3) strong span {
+.education article:not(:first-child) strong span {
   background: var(--lime);
   color: var(--black);
 }

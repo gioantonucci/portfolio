@@ -81,8 +81,8 @@ const copy = {
           "Actualmente en el último año de la carrera, integrando diseño, tecnología y comunicación visual estratégica.",
       },
       {
-        date: "Marzo 2026 — En curso",
-        status: "En curso",
+        date: "Junio 2026",
+        status: "Completado",
         credential: "Certificación en Marketing digital y Paid Media",
         description:
           "Introducción al marketing digital, desde sus fundamentos hasta la aplicación práctica de estrategias publicitarias en plataformas digitales. Creación de estrategias de marketing y optimización de campañas. Formación práctica en plataformas como Meta, TikTok, LinkedIn, Snapchat y X.",
@@ -199,8 +199,8 @@ const copy = {
           "Currently in the final year of the degree, integrating design, technology and strategic visual communication.",
       },
       {
-        date: "March 2026 — Ongoing",
-        status: "Ongoing",
+        date: "June 2026",
+        status: "Completed",
         credential: "Certification in Digital Marketing and Paid Media",
         description:
           "Introduction to digital marketing, from fundamentals to the practical application of advertising strategies on digital platforms. Creation of marketing strategies and campaign optimization. Practical training on platforms such as Meta, TikTok, LinkedIn, Snapchat and X.",
