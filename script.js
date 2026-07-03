@@ -9,7 +9,7 @@ const behanceGrid = document.querySelector("[data-behance-projects]");
 const langButtons = [...document.querySelectorAll("[data-lang]")];
 
 const cvLinks = {
-  es: "https://drive.google.com/file/d/1AgIDnWdaa_mRJhGZ4rLisIrc1UOXmnBN/view",
+  es: "https://drive.google.com/file/d/1-gVPNykr-Z8vRw5aWmBL1zqwTMAptyP7/view",
   en: "https://drive.google.com/file/d/1MtwFP8ZQ4RF1bOmSdMyXFCuoiijZkGe7/view?usp=sharing",
 };
 
